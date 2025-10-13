@@ -1,5 +1,13 @@
-## Hi there 👋
+## 	👋 Hola, soy César ¡Qué gusto tenerte por aquí!
+Entusiasta del mundo de la tecnología, la inteligencia artificial y el análisis de datos. Actualmente estudio Ciencias de la Computación en la Universidad Nacional de Ingeniería (UNI) y me encuentro enfocado en desarrollar soluciones basadas en Machine Learning y Ciencia de Datos que generen impacto real.
 
+🚀 He desarrollado proyectos de predicción, clasificación y análisis de datos aplicando modelos de Machine Learning con Python, Scikit-learn y TensorFlow.
+  
+💡 Cuento con experiencia en SQL, Power BI y análisis exploratorio de datos (EDA) para la creación de dashboards y la toma de decisiones basadas en datos.
+  
+🧩 Disfruto aprender, experimentar con nuevas herramientas y optimizar procesos mediante la automatización.
+  
+✉️ Para comunicarte conmigo: cesar.asm2004@gmail.com
 <!--
 **CesarSanchez04/CesarSanchez04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
