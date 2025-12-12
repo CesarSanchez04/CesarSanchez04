@@ -1,4 +1,5 @@
 ## 	👋 Hola, soy César ¡Qué gusto tenerte por aquí!
+https://docs.google.com/document/d/1vQrivw40QKuNGyvhcF2tY4b8caw2ce-hikH-iEIuEeU/edit?usp=sharing
 Entusiasta del mundo de la tecnología, la inteligencia artificial y el análisis de datos. Actualmente estudio Ciencias de la Computación en la Universidad Nacional de Ingeniería (UNI) y me encuentro enfocado en desarrollar soluciones basadas en Machine Learning y Ciencia de Datos que generen impacto real.
 
 🚀 He desarrollado proyectos de predicción, clasificación y análisis de datos aplicando modelos de Machine Learning con Python, Scikit-learn y TensorFlow.
